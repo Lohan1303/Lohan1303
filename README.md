@@ -13,7 +13,6 @@ Atualmente, estou procurando estágio na área da Tecnologia da Informação.
 **Ferramentas:** GIT.
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Lohan1303)](https://github.com/Lohan1303)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohan1303&layout=compact)](https://github.com/Lohan1303)
 
 Caso queira acompanhar meus conteúdos  ⤵️
