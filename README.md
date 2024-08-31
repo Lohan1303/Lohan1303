@@ -15,12 +15,12 @@ Atualmente, atuo como engenheiro de dados e estou sempre em busca de novos desaf
 
 ## 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lohan1303&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohan1303&theme=dark&show_icons=true&count_private=true" alt="Top Languages" height="150">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lohan1303&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" width="500" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohan1303&theme=dark&show_icons=true&count_private=true" alt="Top Languages" width="500" height="200">
 </div>
 
-## 🚀 Projetos Destacados
+## 🚀 Projetos
 
 - [Sistema de Gerenciamento de Gado](https://github.com/Lohan1303/SistemaGerenciadorGado.git) 
 - [AquaSense](https://github.com/Lohan1303/AquaSense.git) 
@@ -28,7 +28,9 @@ Atualmente, atuo como engenheiro de dados e estou sempre em busca de novos desaf
 ## 📬 Conecte-se Comigo
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
