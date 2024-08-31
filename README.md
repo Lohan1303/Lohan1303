@@ -15,11 +15,9 @@ Atualmente, atuo como engenheiro de dados e estou sempre em busca de novos desaf
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
+<div >
     <img src="https://github-readme-stats.vercel.app/api?username=Lohan1303&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" width="500" height="200">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohan1303&theme=dark&show_icons=true&count_private=true" alt="Top Languages" width="500" height="200">
-  </div>
 </div>
 
 ## 🚀 Projetos
