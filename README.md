@@ -23,7 +23,9 @@ Atualmente, atuo como estagiário na área de engenheiro de dados e estou sempre
 ## 🚀 Projetos
 
 - [Sistema de Gerenciamento de Gado](https://github.com/Lohan1303/SistemaGerenciadorGado.git) 
-- [AquaSense](https://github.com/Lohan1303/AquaSense.git) 
+- [AquaSense](https://github.com/Lohan1303/AquaSense.git)
+- [Jogo da velha Mobile - React Native]()
+- [Analisador Léxico]()
 
 ## 📬 Conecte-se Comigo
 
