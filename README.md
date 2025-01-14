@@ -3,7 +3,7 @@
 
 Olá! Sou Lohan, estudante de Engenharia de Computação pela Faculdade Engenherio Salvador Arena - FESA 💻.
 
-Atualmente, atuo como estagiário na área de engenheiro de dados e estou sempre em busca de novos desafios e oportunidades para crescer na área.
+Atualmente, atuo como estagiário na área de engenharia de dados e estou sempre em busca de novos desafios e oportunidades para crescer na área.
 
 ## 🛠️ Ferramentas e Tecnologias
 
