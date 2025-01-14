@@ -9,9 +9,9 @@ Atualmente, atuo como estagiário na área de engenharia de dados e estou sempre
 
 **Linguagens de Programação:** C#, SQL, Python
 
-**Ferramentas:** GIT, SSIS
+**Ferramentas:** GIT, SSIS, DataBricks, Sql Server e Selenium.
 
-**Conhecimentos Adicionais:** Data Warehousing, ETL.
+**Conhecimentos Adicionais:** Data Warehousing, Data LakeHouse, Data Quality, ETL.
 
 ## 📊 GitHub Stats
 
