@@ -1,17 +1,16 @@
-
 # Hello World!! 🌎
 
-Olá! Sou Lohan, estudante de Engenharia de Computação pela Faculdade Engenherio Salvador Arena - FESA 💻.
+Hello! I am Lohan, a Computer Engineering student at Faculdade Engenheiro Salvador Arena - FESA 💻.
 
-Atualmente, atuo como estagiário na área de engenharia de dados e estou sempre em busca de novos desafios e oportunidades para crescer na área.
+Currently, I work as an intern in the data engineering field, always seeking new challenges and opportunities to grow in the area.
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Tools and Technologies
 
-**Linguagens de Programação:** C#, SQL, Python
+**Programming Languages:** C#, SQL, Python
 
-**Ferramentas:** GIT, SSIS, DataBricks, Sql Server e Selenium.
+**Tools:** GIT, SSIS, DataBricks, Sql Server, and Selenium.
 
-**Conhecimentos Adicionais:** Data Warehousing, Data LakeHouse, Data Quality, ETL.
+**Additional Knowledge:** Data Warehousing, Data LakeHouse, Data Quality, ETL.
 
 ## 📊 GitHub Stats
 
@@ -20,18 +19,19 @@ Atualmente, atuo como estagiário na área de engenharia de dados e estou sempre
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohan1303&theme=dark&show_icons=true&count_private=true" alt="Top Languages" height="200">
 </div>
 
-## 🚀 Projetos
-
-- [Sistema de Gerenciamento de Gado](https://github.com/Lohan1303/SistemaGerenciadorGado.git) 
+## 🚀 Projects
+- [Cattle Management System](https://github.com/Lohan1303/SistemaGerenciadorGado.git) 
 - [AquaSense](https://github.com/Lohan1303/AquaSense.git)
-- [Quiz moblie - React Native](https://github.com/Lohan1303/Quiz_app.git)
-- [Analisador Léxico]( https://github.com/Lohan1303/analisadorLexico.git)
+- [Mobile Quiz - React Native](https://github.com/Lohan1303/Quiz_app.git)
+- [Lexical Analyzer](https://github.com/Lohan1303/analisadorLexico.git)
 
-## 📬 Conecte-se Comigo
+## 🎲 Data Engineering
+- [First ETL with Python](https://github.com/Lohan1303/MyFirst_Project_DataEngineering.git) 
+
+## 📬 Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohanbatista/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lohan_b_moreira/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lohan1303)
 
 ---
-
