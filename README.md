@@ -92,7 +92,7 @@
         <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <p align="center"><a href="https://github.com/tcc-no-show-appointment)"><b>View Repository →</b></a></p>
+      <p align="center"><a href="https://github.com/tcc-no-show-appointment"><b>View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏗️ Lakehouse Migration</h3>
