@@ -121,19 +121,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Lohan1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Lohan1303&theme=dark&hide_border=false" width="32%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lohan1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32%" alt="Top Languages"/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=Lohan1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=Lohan1303&theme=dark&hide_border=false" width="100%" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lohan1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 </div>
-
----
 
 <div align="center">
-
-[![](https://komarev.com/ghpvc/?username=Lohan1303&icon=0&color=0)](https://visitcount.itsvg.in)
+Mostrar Imagem
 
 </div>
-
 <br/>
 
 ## 🤝 Connect with me
